@@ -1,0 +1,10 @@
+Analize:
+
+1. Number of swimmmers drop/gain/same finals times for each event, average times drop/gain per event.
+2. Find out which events have the most drops/gain/same.
+3. Show summary for each swimmer for the meet.
+4. Average events/swimmer.
+5. Number of DQ per event.
+6. Number of first time swimming per event.
+7. Number of swimmers total per meet, gender breakdown, age breakdown, club brakedown.
+
